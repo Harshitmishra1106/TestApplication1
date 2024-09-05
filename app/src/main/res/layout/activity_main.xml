@@ -70,7 +70,7 @@
                 android:layout_marginStart="50dp"
                 android:background="@drawable/card2"
                 android:gravity="center"
-                android:text=" Continue "
+                android:text="  Continue  "
                 android:textSize="20sp" />
 
 
